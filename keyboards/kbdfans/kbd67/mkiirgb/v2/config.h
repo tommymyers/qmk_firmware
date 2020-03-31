@@ -4,7 +4,7 @@
 #define PRODUCT_ID      0x1225
 #define DEVICE_VER      0x0002
 #define MANUFACTURER    KBDfans
-#define PRODUCT         kbd67mkiirgb v2
+#define PRODUCT         KBD67 MKII RGB V2
 #define DESCRIPTION     kbd67mkii rgb keyboard
 
 #define MATRIX_ROWS 5
